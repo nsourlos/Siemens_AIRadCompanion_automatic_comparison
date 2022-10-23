@@ -4,12 +4,12 @@ Created on Wed Nov 17 10:56:31 2021
 
 @author: soyrl
 """
-
+de
 #os.path.join(root,file)
 #os.path.splitext(file)
 #ff
 #Import libraries and dependencies
-import os
+import oscccc
 import pydicom as dicom
 import numpy as np
 import cv2
