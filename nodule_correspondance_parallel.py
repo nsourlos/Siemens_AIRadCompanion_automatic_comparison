@@ -7,7 +7,7 @@ Created on Wed Nov 17 10:56:31 2021
 
 #os.path.join(root,file)
 #os.path.splitext(file)
-
+#ff
 #Import libraries and dependencies
 import os
 import pydicom as dicom
