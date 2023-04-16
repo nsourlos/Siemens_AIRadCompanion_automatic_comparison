@@ -1,0 +1,33 @@
+start processing data.. patientID :997831, SeriesDate : 20201031, Slices : 429, AccessionNumber : 
+Processing dispatcher..
+Processing dispatcher completed..
+Starting LungCAD algorithm..
+Finished : LungCAD algorithm after 93 seconds..
+Lesion measurements calculation started..
+Performing Prefetch....
+Prefetch historic data finished after 2 Seconds
+lesion parameter estimation finished in 32 seconds..
+Lesion measurements calculation finished..
+EuclideanDTF calculation finished after 0 Seconds
+Identifying Lung Lobe for each lesion..
+Identifying Lung Lobe for each lesion finished in 0 seconds..
+Calculating Lesion Mask (Combined of all lesions)..
+Calculating Lesion Mask Finished in 2.744 seconds
+Start creating series..LungLesions
+Finished creating LungLesions in 45 seconds
+Lung Overview generation started..
+Lung Overview generation Finished after 0 seconds
+Zoomed lesion series creation started..
+Zoomed lesion series creation finished in 2 seconds..
+Result table creation started..
+Result table creation finished..
+Starting anonymizing original Series..
+Finished anonymizing original Series..
+Starting  anonymizing result Series (All)..
+Finished anonymizing result Series (All)..
+Sarting Converting to JPEG Compression of images..
+Converting to JPEG Compressed format finished..
+Sending result series to PACS .. 
+Finished sending result series to PACS .. 
+Finished processing the volume (Total Seconds:756)
+----------------------------------------------------
