@@ -1,4 +1,4 @@
-start processing data.. patientID :997831, SeriesDate : 20201031, Slices : 429, AccessionNumber : 
+start processing data.. patientID :111111, SeriesDate : 20201031, Slices : 429, AccessionNumber : 
 Processing dispatcher..
 Processing dispatcher completed..
 Starting LungCAD algorithm..
