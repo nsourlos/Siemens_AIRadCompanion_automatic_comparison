@@ -23,7 +23,7 @@
  - Inside that folder, create empty folders, each with the 6-digit participant id as its name.
  - Download the above mentioned files inside each participant's folder. 
   - To download a scan we open `syngo.via` and login with your details, as shown below <img src="./images/syngo_login.png">
-  - Search for a specific participant id in the PACS (e.g. Orthanc) by clicking the `DICOM Q/R` icon on the top left corner of the panel <img src="./images/dicom_qr.png"> and then `Search Filters`. <img src="./images/search_filters.png"> Input the ID (sometimes a `*` in front is needed) and hit enter <img src="./images/syngo_search.png"> 
+  - Search for a specific participant id in the PACS (e.g. Orthanc) by clicking the `DICOM Q/R` icon on the top right corner of the panel <img src="./images/dicom_qr.png"> and then `Search Filters`. <img src="./images/search_filters.png"> Input the ID (sometimes a `*` in front is needed) and hit enter <img src="./images/syngo_search.png"> 
    - In the panel that shows up, select the scan you would like to export. Be sure to select the baseline and not the repeat scan by noting the `study date` <img src="./images/study_date.png">
    - Select the original scan denoted as `Fl_Thorax...Qr59`. If there are many options, select the inspiration `INSP` scan <img src="./images/Fl_thorax_insp.png"> Select the other files with `Ctrl+click`. 
    - For the `Results` folder with the nodule annotations, select all files denoted as `Results MM Oncology Reading`. Ensure that these contain just the contour of the nodule without any additional information about its characteristics overlayed in that image. An example of such an image can be seen [below](./images/results_annotation.png). 
